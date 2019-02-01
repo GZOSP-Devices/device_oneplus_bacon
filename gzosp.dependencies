@@ -7,7 +7,7 @@
   {
     "repository": "GZOSP-Devices/device_oppo_common",
     "target_path": "device/oppo/common",
-    "branch": "9.0"
+    "branch": "9.0-bacon"
   },
   {
     "repository": "LineageOs/android_kernel_oppo_msm8974",
