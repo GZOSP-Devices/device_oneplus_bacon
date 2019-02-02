@@ -44,8 +44,8 @@ PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 # DevicHandler
-# PRODUCT_PACKAGES += \
-#	DeviceHandler
+PRODUCT_PACKAGES += \
+	DeviceHandler
 
 # Doze
 PRODUCT_PACKAGES += \
