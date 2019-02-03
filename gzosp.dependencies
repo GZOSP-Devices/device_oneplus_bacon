@@ -28,5 +28,10 @@
   "repository": "TheMuppets/proprietary_vendor_oppo",
   "target_path": "vendor/oppo",
   "branch": "lineage-16.0"
+  },
+  {
+    "repository":  "GZOSP-Devices/device_qcom_sepolicy-legacy",
+    "target_path": "device/qcom/sepolicy-legacy",
+    "branch":      "9.0"
   }
 ]
