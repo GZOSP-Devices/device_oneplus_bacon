@@ -10,9 +10,9 @@
     "branch": "9.0-bacon"
   },
   {
-    "repository": "Tomoms/android_kernel_oppo_msm8974",
+    "repository": "LineageOs/android_kernel_oppo_msm8974",
     "target_path": "kernel/oppo/msm8974",
-    "branch": "pie"
+    "branch": "lineage-16.0"
   },
   {
     "repository": "LineageOs/android_packages_resources_devicesettings",
