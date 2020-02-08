@@ -14,9 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_bacon.mk
+    $(LOCAL_DIR)/gzosp_bacon.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_bacon-user \
-    lineage_bacon-userdebug \
-    lineage_bacon-eng
+    gzosp_bacon-userdebug
